@@ -1,12 +1,12 @@
-# 🚀 Daily LeetCode Challenge & Solutions
+# LeetCode Daily Practice
 
-Kho lưu trữ các bài toán LeetCode được giải và kiểm thử tự động hàng ngày bằng Antigravity AI Agent.
+My personal repository for tracking daily LeetCode challenges, algorithms, and unit test suites.
 
-## 📊 Thống kê & Chuỗi Streak
+## Overview
 - **LeetCode Profile:** [@FGFoUbjLHH](https://leetcode.com/u/FGFoUbjLHH/)
-- **Cơ chế tự động:** Lấy bài Daily từ LeetCode $\rightarrow$ Giải thuật toán $\rightarrow$ Unit Test $\rightarrow$ Nộp bài trực tiếp lên LeetCode $\rightarrow$ Mở PR trên GitHub $\rightarrow$ Auto-merge.
+- **Languages:** Python, TypeScript
 
-## 📂 Danh sách bài đã giải
-| # | Bài toán | Độ khó | Ngôn ngữ | Trạng thái LeetCode | PR |
+## Solutions
+| # | Problem | Difficulty | Language | Complexity | LeetCode Status |
 |---|---|:---:|:---:|:---:|:---:|
-| 0462 | [Minimum Moves to Equal Array Elements II](problems/0462-minimum-moves-to-equal-array-elements-ii/) | Medium | Python 3 | Accepted (33/33) | Merged |
+| 0462 | [Minimum Moves to Equal Array Elements II](problems/0462-minimum-moves-to-equal-array-elements-ii/) | Medium | Python 3 | O(N log N) / O(1) | Accepted |
