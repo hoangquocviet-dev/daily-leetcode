@@ -28,5 +28,5 @@ Given an integer array `nums`, return `true` if any value appears at least twice
 
 ## LeetCode Submission
 - **Status:** `Accepted` (80/80 test cases)
-- **Runtime:** `11 ms` (Beats 85.3%)
-- **Memory:** `32.8 MB` (Beats 23.57%)
+- **Runtime:** `14 ms` (Beats 69.13%)
+- **Memory:** `32.9 MB` (Beats 22.47%)
