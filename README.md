@@ -21,8 +21,8 @@ Repository theo dõi quá trình luyện tập thuật toán LeetCode hàng ngà
 | 0125 | [Valid Palindrome](problems/0125-valid-palindrome/) | Easy | C# | [xUnit](tests/0125-valid-palindrome/) | Accepted |
 | 0141 | [Linked List Cycle](problems/0141-linked-list-cycle/) | Easy | C# | [xUnit](tests/0141-linked-list-cycle/) | Accepted |
 | 0206 | [Reverse Linked List](problems/0206-reverse-linked-list/) | Easy | C# | [xUnit](tests/0206-reverse-linked-list/) | Accepted |
-| 0217 | [Contains Duplicate](problems/0217-contains-duplicate/) | Easy | Python 3 | pytest | Accepted |
+| 0217 | [Contains Duplicate](problems/0217-contains-duplicate/) | Easy | C# | [xUnit](tests/0217-contains-duplicate/) | Accepted |
 | 0226 | [Invert Binary Tree](problems/0226-invert-binary-tree/) | Easy | C# | [xUnit](tests/0226-invert-binary-tree/) | Accepted |
-| 0242 | [Valid Anagram](problems/0242-valid-anagram/) | Easy | Python 3 | pytest | Accepted |
-| 0462 | [Minimum Moves To Equal Array Elements Ii](problems/0462-minimum-moves-to-equal-array-elements-ii/) | Easy | Python 3 | pytest | Accepted |
+| 0242 | [Valid Anagram](problems/0242-valid-anagram/) | Easy | C# | [xUnit](tests/0242-valid-anagram/) | Accepted |
+| 0462 | [Minimum Moves To Equal Array Elements Ii](problems/0462-minimum-moves-to-equal-array-elements-ii/) | Easy | C# | [xUnit](tests/0462-minimum-moves-to-equal-array-elements-ii/) | Accepted |
 | 0704 | [Binary Search](problems/0704-binary-search/) | Easy | C# | [xUnit](tests/0704-binary-search/) | Accepted |
