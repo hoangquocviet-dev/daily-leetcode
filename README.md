@@ -18,8 +18,10 @@ Repository theo dõi quá trình luyện tập thuật toán LeetCode hàng ngà
 | 0020 | [Valid Parentheses](problems/0020-valid-parentheses/) | Easy | C# | [xUnit](tests/0020-valid-parentheses/) | Accepted |
 | 0121 | [Best Time to Buy and Sell Stock](problems/0121-best-time-to-buy-and-sell-stock/) | Easy | C# | [xUnit](tests/0121-best-time-to-buy-and-sell-stock/) | Accepted |
 | 0125 | [Valid Palindrome](problems/0125-valid-palindrome/) | Easy | C# | [xUnit](tests/0125-valid-palindrome/) | Accepted |
+| 0141 | [Linked List Cycle](problems/0141-linked-list-cycle/) | Easy | C# | [xUnit](tests/0141-linked-list-cycle/) | Accepted |
 | 0206 | [Reverse Linked List](problems/0206-reverse-linked-list/) | Easy | C# | [xUnit](tests/0206-reverse-linked-list/) | Accepted |
 | 0217 | [Contains Duplicate](problems/0217-contains-duplicate/) | Easy | Python 3 | pytest | Accepted |
+| 0226 | [Invert Binary Tree](problems/0226-invert-binary-tree/) | Easy | C# | [xUnit](tests/0226-invert-binary-tree/) | Accepted |
 | 0242 | [Valid Anagram](problems/0242-valid-anagram/) | Easy | Python 3 | pytest | Accepted |
-| 0462 | [Minimum Moves to Equal Array Elements II](problems/0462-minimum-moves-to-equal-array-elements-ii/) | Medium | Python 3 | pytest | Accepted |
+| 0462 | [Minimum Moves To Equal Array Elements Ii](problems/0462-minimum-moves-to-equal-array-elements-ii/) | Easy | Python 3 | pytest | Accepted |
 | 0704 | [Binary Search](problems/0704-binary-search/) | Easy | C# | [xUnit](tests/0704-binary-search/) | Accepted |
