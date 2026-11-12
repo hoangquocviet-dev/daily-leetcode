@@ -19,6 +19,7 @@ Repository theo dõi quá trình luyện tập thuật toán LeetCode hàng ngà
 | 0070 | [Climbing Stairs](problems/0070-climbing-stairs/) | Easy | C# | [xUnit](tests/0070-climbing-stairs/) | Accepted |
 | 0121 | [Best Time to Buy and Sell Stock](problems/0121-best-time-to-buy-and-sell-stock/) | Easy | C# | [xUnit](tests/0121-best-time-to-buy-and-sell-stock/) | Accepted |
 | 0125 | [Valid Palindrome](problems/0125-valid-palindrome/) | Easy | C# | [xUnit](tests/0125-valid-palindrome/) | Accepted |
+| 0136 | [Single Number](problems/0136-single-number/) | Easy | C# | [xUnit](tests/0136-single-number/) | Accepted |
 | 0141 | [Linked List Cycle](problems/0141-linked-list-cycle/) | Easy | C# | [xUnit](tests/0141-linked-list-cycle/) | Accepted |
 | 0191 | [Number of 1 Bits](problems/0191-number-of-1-bits/) | Easy | C# | [xUnit](tests/0191-number-of-1-bits/) | Accepted |
 | 0206 | [Reverse Linked List](problems/0206-reverse-linked-list/) | Easy | C# | [xUnit](tests/0206-reverse-linked-list/) | Accepted |
