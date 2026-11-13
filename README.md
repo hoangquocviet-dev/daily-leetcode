@@ -21,6 +21,7 @@ Repository theo dõi quá trình luyện tập thuật toán LeetCode hàng ngà
 | 0125 | [Valid Palindrome](problems/0125-valid-palindrome/) | Easy | C# | [xUnit](tests/0125-valid-palindrome/) | Accepted |
 | 0136 | [Single Number](problems/0136-single-number/) | Easy | C# | [xUnit](tests/0136-single-number/) | Accepted |
 | 0141 | [Linked List Cycle](problems/0141-linked-list-cycle/) | Easy | C# | [xUnit](tests/0141-linked-list-cycle/) | Accepted |
+| 0169 | [Majority Element](problems/0169-majority-element/) | Easy | C# | [xUnit](tests/0169-majority-element/) | Accepted |
 | 0191 | [Number of 1 Bits](problems/0191-number-of-1-bits/) | Easy | C# | [xUnit](tests/0191-number-of-1-bits/) | Accepted |
 | 0206 | [Reverse Linked List](problems/0206-reverse-linked-list/) | Easy | C# | [xUnit](tests/0206-reverse-linked-list/) | Accepted |
 | 0217 | [Contains Duplicate](problems/0217-contains-duplicate/) | Easy | C# | [xUnit](tests/0217-contains-duplicate/) | Accepted |
