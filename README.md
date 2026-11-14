@@ -27,5 +27,6 @@ Repository theo dõi quá trình luyện tập thuật toán LeetCode hàng ngà
 | 0217 | [Contains Duplicate](problems/0217-contains-duplicate/) | Easy | C# | [xUnit](tests/0217-contains-duplicate/) | Accepted |
 | 0226 | [Invert Binary Tree](problems/0226-invert-binary-tree/) | Easy | C# | [xUnit](tests/0226-invert-binary-tree/) | Accepted |
 | 0242 | [Valid Anagram](problems/0242-valid-anagram/) | Easy | C# | [xUnit](tests/0242-valid-anagram/) | Accepted |
+| 0283 | [Move Zeroes](problems/0283-move-zeroes/) | Easy | C# | [xUnit](tests/0283-move-zeroes/) | Accepted |
 | 0462 | [Minimum Moves To Equal Array Elements Ii](problems/0462-minimum-moves-to-equal-array-elements-ii/) | Easy | C# | [xUnit](tests/0462-minimum-moves-to-equal-array-elements-ii/) | Accepted |
 | 0704 | [Binary Search](problems/0704-binary-search/) | Easy | C# | [xUnit](tests/0704-binary-search/) | Accepted |
