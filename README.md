@@ -16,6 +16,7 @@ Repository theo dõi quá trình luyện tập thuật toán LeetCode hàng ngà
 |:---:|---|:---:|:---:|:---:|:---:|
 | 0001 | [Two Sum](problems/0001-two-sum/) | Easy | C# | [xUnit](tests/0001-two-sum/) | Accepted |
 | 0020 | [Valid Parentheses](problems/0020-valid-parentheses/) | Easy | C# | [xUnit](tests/0020-valid-parentheses/) | Accepted |
+| 0021 | [Merge Two Sorted Lists](problems/0021-merge-two-sorted-lists/) | Easy | C# | [xUnit](tests/0021-merge-two-sorted-lists/) | Accepted |
 | 0070 | [Climbing Stairs](problems/0070-climbing-stairs/) | Easy | C# | [xUnit](tests/0070-climbing-stairs/) | Accepted |
 | 0121 | [Best Time to Buy and Sell Stock](problems/0121-best-time-to-buy-and-sell-stock/) | Easy | C# | [xUnit](tests/0121-best-time-to-buy-and-sell-stock/) | Accepted |
 | 0125 | [Valid Palindrome](problems/0125-valid-palindrome/) | Easy | C# | [xUnit](tests/0125-valid-palindrome/) | Accepted |
