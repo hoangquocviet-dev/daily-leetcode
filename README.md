@@ -19,6 +19,7 @@ Repository theo dõi quá trình luyện tập thuật toán LeetCode hàng ngà
 | 0021 | [Merge Two Sorted Lists](problems/0021-merge-two-sorted-lists/) | Easy | C# | [xUnit](tests/0021-merge-two-sorted-lists/) | Accepted |
 | 0026 | [Remove Duplicates from Sorted Array](problems/0026-remove-duplicates-from-sorted-array/) | Easy | C# | [xUnit](tests/0026-remove-duplicates-from-sorted-array/) | Accepted |
 | 0035 | [Search Insert Position](problems/0035-search-insert-position/) | Easy | C# | [xUnit](tests/0035-search-insert-position/) | Accepted |
+| 0058 | [Length of Last Word](problems/0058-length-of-last-word/) | Easy | C# | [xUnit](tests/0058-length-of-last-word/) | Accepted |
 | 0070 | [Climbing Stairs](problems/0070-climbing-stairs/) | Easy | C# | [xUnit](tests/0070-climbing-stairs/) | Accepted |
 | 0121 | [Best Time to Buy and Sell Stock](problems/0121-best-time-to-buy-and-sell-stock/) | Easy | C# | [xUnit](tests/0121-best-time-to-buy-and-sell-stock/) | Accepted |
 | 0125 | [Valid Palindrome](problems/0125-valid-palindrome/) | Easy | C# | [xUnit](tests/0125-valid-palindrome/) | Accepted |
