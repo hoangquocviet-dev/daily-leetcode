@@ -22,6 +22,7 @@ Repository theo dõi quá trình luyện tập thuật toán LeetCode hàng ngà
 | 0058 | [Length of Last Word](problems/0058-length-of-last-word/) | Easy | C# | [xUnit](tests/0058-length-of-last-word/) | Accepted |
 | 0066 | [Plus One](problems/0066-plus-one/) | Easy | C# | [xUnit](tests/0066-plus-one/) | Accepted |
 | 0070 | [Climbing Stairs](problems/0070-climbing-stairs/) | Easy | C# | [xUnit](tests/0070-climbing-stairs/) | Accepted |
+| 0104 | [Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree/) | Easy | C# | [xUnit](tests/0104-maximum-depth-of-binary-tree/) | Accepted |
 | 0121 | [Best Time to Buy and Sell Stock](problems/0121-best-time-to-buy-and-sell-stock/) | Easy | C# | [xUnit](tests/0121-best-time-to-buy-and-sell-stock/) | Accepted |
 | 0125 | [Valid Palindrome](problems/0125-valid-palindrome/) | Easy | C# | [xUnit](tests/0125-valid-palindrome/) | Accepted |
 | 0136 | [Single Number](problems/0136-single-number/) | Easy | C# | [xUnit](tests/0136-single-number/) | Accepted |
