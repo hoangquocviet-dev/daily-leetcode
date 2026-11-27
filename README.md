@@ -37,5 +37,6 @@ Repository theo dõi quá trình luyện tập thuật toán LeetCode hàng ngà
 | 0268 | [Missing Number](problems/0268-missing-number/) | Easy | C# | [xUnit](tests/0268-missing-number/) | Accepted |
 | 0283 | [Move Zeroes](problems/0283-move-zeroes/) | Easy | C# | [xUnit](tests/0283-move-zeroes/) | Accepted |
 | 0344 | [Reverse String](problems/0344-reverse-string/) | Easy | C# | [xUnit](tests/0344-reverse-string/) | Accepted |
+| 0392 | [Is Subsequence](problems/0392-is-subsequence/) | Easy | C# | [xUnit](tests/0392-is-subsequence/) | Accepted |
 | 0462 | [Minimum Moves To Equal Array Elements Ii](problems/0462-minimum-moves-to-equal-array-elements-ii/) | Easy | C# | [xUnit](tests/0462-minimum-moves-to-equal-array-elements-ii/) | Accepted |
 | 0704 | [Binary Search](problems/0704-binary-search/) | Easy | C# | [xUnit](tests/0704-binary-search/) | Accepted |
