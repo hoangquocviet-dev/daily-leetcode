@@ -19,6 +19,7 @@ Repository theo dõi quá trình luyện tập thuật toán LeetCode hàng ngà
 | 0021 | [Merge Two Sorted Lists](problems/0021-merge-two-sorted-lists/) | Easy | C# | [xUnit](tests/0021-merge-two-sorted-lists/) | Accepted |
 | 0026 | [Remove Duplicates from Sorted Array](problems/0026-remove-duplicates-from-sorted-array/) | Easy | C# | [xUnit](tests/0026-remove-duplicates-from-sorted-array/) | Accepted |
 | 0035 | [Search Insert Position](problems/0035-search-insert-position/) | Easy | C# | [xUnit](tests/0035-search-insert-position/) | Accepted |
+| 0053 | [Maximum Subarray](problems/0053-maximum-subarray/) | Medium | C# | [xUnit](tests/0053-maximum-subarray/) | Accepted |
 | 0058 | [Length of Last Word](problems/0058-length-of-last-word/) | Easy | C# | [xUnit](tests/0058-length-of-last-word/) | Accepted |
 | 0066 | [Plus One](problems/0066-plus-one/) | Easy | C# | [xUnit](tests/0066-plus-one/) | Accepted |
 | 0070 | [Climbing Stairs](problems/0070-climbing-stairs/) | Easy | C# | [xUnit](tests/0070-climbing-stairs/) | Accepted |
